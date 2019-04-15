@@ -1,4 +1,4 @@
-public class E605CanPlaceFlowers {
+public class E_605_CanPlaceFlowers {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int counter = 0;
         for (int i = 0; i < flowerbed.length; i++) {

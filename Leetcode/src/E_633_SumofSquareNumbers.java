@@ -1,4 +1,4 @@
-public class E633SumofSquareNumbers {
+public class E_633_SumofSquareNumbers {
     public boolean judgeSquareSum(int c) {
         return true;
     }

@@ -1,4 +1,4 @@
-public class E26RemoveDuplicatesfromSortedArray {
+public class E_26_RemoveDuplicatesfromSortedArray {
     public int removeDuplicates(int[] nums) {
         int j = 1;
         for (int i = 1; i < nums.length; i++) {
