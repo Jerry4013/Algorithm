@@ -12,17 +12,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a46ef7-3301-4881-a6dc-f8b7d112d8c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E_21_MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_28_Implement_strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_107_BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_108_ConvertSortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_110_BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_111_MinimumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_112_PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_118_PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_119_PascalsTriangle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_121_BestTimeToBuyAndSellStock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_122_BestTimeToBuyAndSellStock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_125_ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_136_SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_141_LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_155_MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_157_ReadNCharactersGivenRead4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_160_IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_167_TwoSumII_InputArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_168_ExcelSheetColumnTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_171_ExcelSheetColumnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_172_FactorialTrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_189_RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_190_ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_35_SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_38_CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_53_Maximum_SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_66_PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_69_SqrtX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_70_ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E26RemoveDuplicatesfromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_26_RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E374GuessNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_374_GuessNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E605CanPlaceFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_605_CanPlaceFlowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E633SumofSquareNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_633_SumofSquareNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E709ToLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_709_ToLowerCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E_1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_1_TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/AddDigits258.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/AddDigits258.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/BackspaceStringCompare844.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/BackspaceStringCompare844.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/ConstructtheRectangle492.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/ConstructtheRectangle492.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E26RemoveDuplicatesfromSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E374GuessNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E605CanPlaceFlowers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E633SumofSquareNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E709ToLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_100_SameTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_100_SameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_100_SameTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_101_SymmetricTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_101_SymmetricTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_101_SymmetricTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_101_SymmetricTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_104_MaxDepth$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_104_MaxDepth$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_104_MaxDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_104_MaxDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_14_LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_14_LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_1_TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_234_Palindrome$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_234_Palindrome$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_234_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_234_Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_383_RansomNote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_383_RansomNote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_387_FirstUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_387_FirstUnique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_389_FindDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_389_FindDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_404_SumOfLeftLeaves$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_404_SumOfLeftLeaves$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_404_SumOfLeftLeaves.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_404_SumOfLeftLeaves.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_628_MaximumProductofThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_628_MaximumProductofThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_7_ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_7_ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_83_RemoveDuplicate$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_83_RemoveDuplicate$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_83_RemoveDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_83_RemoveDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_88_MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_88_MergeSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_908_SmallestRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/E_908_SmallestRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/H4MedianofTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/H4MedianofTwoSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/Histogram84$IndexPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/Histogram84$IndexPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/Histogram84.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/Histogram84.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_113_PathSum$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_113_PathSum$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_113_PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_113_PathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_33_SearchInRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_33_SearchInRotatedSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_402RemoveKDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_402RemoveKDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_82_RemoveDuplicates$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_82_RemoveDuplicates$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_82_RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/M_82_RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/MaxConsecutiveOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/MaxConsecutiveOnes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/PalindromeNumber9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/PalindromeNumber9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/RomantoInteger13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/RomantoInteger13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/SimplifyPath71.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/production/Leetcode/SimplifyPath71.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_100_SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_100_SameTree.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,83 +93,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E_7_ReverseInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E_21_MergeTwoSortedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/E_28_Implement_strStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E_14_LongestCommonPrefix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E_27_RemoveElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E_1_TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10392">
-              <caret line="469" column="11" selection-start-line="469" selection-start-column="11" selection-end-line="469" selection-end-column="11" />
-              <folding>
-                <element signature="e#19228#19229#0" expanded="true" />
-                <element signature="e#19311#19312#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,82 +105,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/ReverseInteger7.java" />
-        <option value="$PROJECT_DIR$/src/BackspaceStringCompare844.java" />
-        <option value="$PROJECT_DIR$/src/MaxConsecutiveOnes.java" />
-        <option value="$PROJECT_DIR$/src/Histogram84.java" />
-        <option value="$PROJECT_DIR$/src/SimplifyPath71.java" />
-        <option value="$PROJECT_DIR$/src/PalindromeNumber9.java" />
-        <option value="$PROJECT_DIR$/src/RomantoInteger13.java" />
-        <option value="$PROJECT_DIR$/src/AddDigits258.java" />
-        <option value="$PROJECT_DIR$/src/ConstructtheRectangle492.java" />
-        <option value="$PROJECT_DIR$/src/E374GuessNumber.java" />
-        <option value="$PROJECT_DIR$/src/E709ToLowerCase.java" />
-        <option value="$PROJECT_DIR$/src/E633SumofSquareNumbers.java" />
-        <option value="$PROJECT_DIR$/src/E605CanPlaceFlowers.java" />
-        <option value="$PROJECT_DIR$/src/E26RemoveDuplicatesfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/M402RemoveKDigits.java" />
-        <option value="$PROJECT_DIR$/src/E_100_SameTree.java" />
-        <option value="$PROJECT_DIR$/src/E_101_SymmetricTree.java" />
-        <option value="$PROJECT_DIR$/src/E_104_MaxDepth.java" />
-        <option value="$PROJECT_DIR$/src/E_404_SumOfLeftLeaves.java" />
-        <option value="$PROJECT_DIR$/src/E_387_FirstUnique.java" />
-        <option value="$PROJECT_DIR$/src/E_383_RansomNote.java" />
-        <option value="$PROJECT_DIR$/src/M_113_PathSum.java" />
-        <option value="$PROJECT_DIR$/src/M_33_SearchInRotatedSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/E_83_RemoveDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/M_402RemoveKDigits.java" />
-        <option value="$PROJECT_DIR$/src/H4MedianofTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/E_234_Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/M_82_RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/E_389_FindDifference.java" />
-        <option value="$PROJECT_DIR$/src/E_908_SmallestRange.java" />
-        <option value="$PROJECT_DIR$/src/E_88_MergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/E_628_MaximumProductofThreeNumbers.java" />
-        <option value="$PROJECT_DIR$/src/E_7_ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/E_14_LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/E_27_RemoveElement.java" />
-        <option value="$PROJECT_DIR$/src/E_1_TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/E_21_MergeTwoSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/E_28_Implement_strStr.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3832" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1POQYI9c2yvnymrRcJaKumDZmtx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -202,12 +116,16 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553206762276" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E_14_LongestCommonPrefix">
+  <component name="RunManager" selected="Application.E_125_ValidPalindrome">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -240,36 +158,36 @@
       <module name="" />
       <method v="2" />
     </configuration>
-    <configuration name="E_14_LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_14_LongestCommonPrefix" />
+    <configuration name="E_125_ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_125_ValidPalindrome" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E_7_ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_7_ReverseInteger" />
+    <configuration name="E_171_ExcelSheetColumnNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_171_ExcelSheetColumnNumber" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainClass" />
+    <configuration name="E_172_FactorialTrailingZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_172_FactorialTrailingZeroes" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeNumber9" />
+    <configuration name="E_189_RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_189_RotateArray" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomantoInteger13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RomantoInteger13" />
+    <configuration name="E_190_ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_190_ReverseBits" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -286,16 +204,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.PalindromeNumber9" />
-      <item itemvalue="Application.RomantoInteger13" />
-      <item itemvalue="Application.E_7_ReverseInteger" />
-      <item itemvalue="Application.E_14_LongestCommonPrefix" />
+      <item itemvalue="Application.E_171_ExcelSheetColumnNumber" />
+      <item itemvalue="Application.E_172_FactorialTrailingZeroes" />
+      <item itemvalue="Application.E_189_RotateArray" />
+      <item itemvalue="Application.E_190_ReverseBits" />
+      <item itemvalue="Application.E_125_ValidPalindrome" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E_14_LongestCommonPrefix" />
-        <item itemvalue="Application.E_7_ReverseInteger" />
+        <item itemvalue="Application.E_125_ValidPalindrome" />
+        <item itemvalue="Application.E_189_RotateArray" />
+        <item itemvalue="Application.E_190_ReverseBits" />
+        <item itemvalue="Application.E_172_FactorialTrailingZeroes" />
+        <item itemvalue="Application.E_171_ExcelSheetColumnNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -312,55 +233,94 @@
       <workItem from="1544565457322" duration="152000" />
       <workItem from="1544737499493" duration="226000" />
       <workItem from="1555328032690" duration="2140000" />
-      <workItem from="1555338921012" duration="7300000" />
+      <workItem from="1555338921012" duration="7469000" />
+      <workItem from="1555370525062" duration="1226000" />
+      <workItem from="1555420788808" duration="1421000" />
+      <workItem from="1555503189254" duration="1304000" />
+      <workItem from="1555507558468" duration="1427000" />
+      <workItem from="1555673877007" duration="1997000" />
+      <workItem from="1555677040694" duration="266000" />
+      <workItem from="1555677535699" duration="10945000" />
+      <workItem from="1563287388589" duration="4445000" />
+      <workItem from="1563504533775" duration="671000" />
+      <workItem from="1563506123062" duration="64000" />
+      <workItem from="1563532450962" duration="7058000" />
+      <workItem from="1563715032870" duration="1422000" />
+      <workItem from="1563735156861" duration="3981000" />
+      <workItem from="1563753581852" duration="1385000" />
+      <workItem from="1563803870077" duration="4781000" />
+      <workItem from="1563823794934" duration="1448000" />
+      <workItem from="1563902781366" duration="5602000" />
+      <workItem from="1563974844543" duration="1966000" />
+      <workItem from="1564015134361" duration="1248000" />
+      <workItem from="1564056805011" duration="2492000" />
+      <workItem from="1564165630664" duration="5007000" />
+      <workItem from="1564186616045" duration="720000" />
+      <workItem from="1564190815116" duration="73000" />
+      <workItem from="1564241055944" duration="3985000" />
+      <workItem from="1564355797371" duration="315000" />
+      <workItem from="1564418887847" duration="2212000" />
+      <workItem from="1564580236970" duration="2510000" />
+      <workItem from="1564936002407" duration="4208000" />
+      <workItem from="1564953904595" duration="6703000" />
+      <workItem from="1565089046093" duration="1312000" />
+      <workItem from="1565307600984" duration="675000" />
+      <workItem from="1565363771284" duration="1622000" />
+      <workItem from="1565390053713" duration="955000" />
+      <workItem from="1565395864096" duration="114000" />
+      <workItem from="1565475656311" duration="2860000" />
+      <workItem from="1565492712764" duration="4777000" />
+      <workItem from="1565529669053" duration="6581000" />
+      <workItem from="1565545148418" duration="1671000" />
+      <workItem from="1565583348805" duration="1621000" />
+      <workItem from="1565626689996" duration="1381000" />
+      <workItem from="1565654363982" duration="593000" />
+      <workItem from="1565742712018" duration="4082000" />
+      <workItem from="1565927171722" duration="2759000" />
+      <workItem from="1565956155716" duration="629000" />
+      <workItem from="1566137440645" duration="703000" />
+      <workItem from="1566138383327" duration="645000" />
+      <workItem from="1566139056766" duration="131000" />
+      <workItem from="1566152188626" duration="3368000" />
     </task>
+    <task id="LOCAL-00001" summary="21,28">
+      <created>1555349007611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555349007611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9818000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="3832" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18635875" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32719547" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4220963" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="CMake" order="12" />
-      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="REPL" order="8" side_tool="true" />
-      <window_info anchor="right" id="Leiningen" order="9" />
-      <window_info anchor="right" id="Database" order="10" />
-      <window_info anchor="right" id="Maven" order="11" />
-    </layout>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="21,28" />
+    <option name="LAST_COMMIT_MESSAGE" value="21,28" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -372,379 +332,27 @@
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
+        <expression-string>i=14</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i=21</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>hashMap.entrySet().toArray()[4]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BackspaceStringCompare844.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxConsecutiveOnes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/src/SimplifyPath71.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomantoInteger13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PalindromeNumber9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Histogram84.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConstructtheRectangle492.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddDigits258.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_709_ToLowerCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_605_CanPlaceFlowers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_26_RemoveDuplicatesfromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_100_SameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_101_SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_104_MaxDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_404_SumOfLeftLeaves.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-781">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/M_33_SearchInRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/M_113_PathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_383_RansomNote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_387_FirstUnique.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/M_402RemoveKDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H4MedianofTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_83_RemoveDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/M_82_RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_234_Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_389_FindDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_908_SmallestRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_88_MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_628_MaximumProductofThreeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_633_SumofSquareNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_374_GuessNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseInteger7.java" />
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../SpringInAction/application.yml" />
-    <entry file="file://$PROJECT_DIR$/src/E_7_ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_14_LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_27_RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_1_TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10392">
-          <caret line="469" column="11" selection-start-line="469" selection-start-column="11" selection-end-line="469" selection-end-column="11" />
-          <folding>
-            <element signature="e#19228#19229#0" expanded="true" />
-            <element signature="e#19311#19312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_21_MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_28_Implement_strStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
 </project>
